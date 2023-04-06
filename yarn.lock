@@ -2495,6 +2495,11 @@ cross-spawn@^7.0.1, cross-spawn@^7.0.3:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
+crypto-js@^4.1.1:
+  version "4.1.1"
+  resolved "https://registry.npmmirror.com/crypto-js/-/crypto-js-4.1.1.tgz#9e485bcf03521041bd85844786b83fb7619736cf"
+  integrity sha512-o2JlM7ydqd3Qk9CA0L4NL6mTzU2sdx96a+oOfPu8Mkl/PK51vSyoi8/rQ8NknZtk44vq15lmhAj9CIAGwgeWKw==
+
 css-font-size-keywords@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmmirror.com/css-font-size-keywords/-/css-font-size-keywords-1.0.0.tgz"
@@ -3096,6 +3101,11 @@ localstorage-polyfill@^1.0.1:
   resolved "https://registry.npmmirror.com/localstorage-polyfill/-/localstorage-polyfill-1.0.1.tgz"
   integrity sha512-m4iHVZxFH5734oQcPKU08025gIz2+4bjWR9lulP8ZYxEJR0BpA0w32oJmkzh8y3UI9ci7xCBehQDc3oA1X+VHw==
 
+lodash-es@^4.17.21:
+  version "4.17.21"
+  resolved "https://registry.npmmirror.com/lodash-es/-/lodash-es-4.17.21.tgz#43e626c46e6591b7750beb2b50117390c609e3ee"
+  integrity sha512-mKnC+QJ9pWVzv+C4/U3rRsHapFfHvQFoFB92e52xeyGMcX6/OlIl78je1u8vePzYZSkkogMPJ2yjxxsb89cxyw==
+
 lodash.camelcase@^4.3.0:
   version "4.3.0"
   resolved "https://registry.npmmirror.com/lodash.camelcase/-/lodash.camelcase-4.3.0.tgz"
@@ -3227,6 +3237,11 @@ minimist@^1.2.6:
   version "1.2.8"
   resolved "https://registry.npmmirror.com/minimist/-/minimist-1.2.8.tgz"
   integrity sha512-2yyAR8qBkN3YuheJanUpWC5U3bb5osDywNB8RzDVlDwDHbocAJveqqj1u8+SVD7jkWT4yvsHCpWqqWqAxb0zCA==
+
+miniprogram-api-typings@^3.9.0:
+  version "3.9.0"
+  resolved "https://registry.npmmirror.com/miniprogram-api-typings/-/miniprogram-api-typings-3.9.0.tgz#c04a6b7eae5585733b5f8787297f2b9f1b60abac"
+  integrity sha512-QCXHHW9H4XYazb8J9EMiFyaOWHXhBG4oehkQqi+76FJpKKIlpgL0ZkXxzJ2L+6T/c5OxKm7iegovKIQGVkZDLQ==
 
 mkdirp@^0.5.1:
   version "0.5.6"

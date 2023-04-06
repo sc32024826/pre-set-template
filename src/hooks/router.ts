@@ -1,5 +1,5 @@
 import { Navigates } from '@/utils/router/navigates';
-import { RouteLocationNormalized } from '@/types/router/route';
+import type { RouteLocationNormalized } from '@/types/router/route';
 import { useRouterStore } from '@/store/modules/router';
 
 

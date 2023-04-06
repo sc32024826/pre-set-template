@@ -25,10 +25,30 @@
             }
         }
     ],
+    "subPackages": [],
     "globalStyle": {
         "navigationBarTextStyle": "black",
         "navigationBarTitleText": "",
         "navigationBarBackgroundColor": "#F8F8F8",
         "backgroundColor": "#F8F8F8"
+    },
+    "tabBar": {
+        "color": "black",
+        "backgroundColor": "white",
+        "selectedColor": "blue",
+        "list": [
+            {
+                "iconPath": "",
+                "pagePath": "",
+                "selectedIconPath": "",
+                "text": ""
+            },
+            {
+                "iconPath": "",
+                "pagePath": "",
+                "selectedIconPath": "",
+                "text": ""
+            }
+        ]
     }
 }

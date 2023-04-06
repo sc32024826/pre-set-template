@@ -1,4 +1,4 @@
-import { createStorage, CreateStorageParams } from './storageCache';
+import { createStorage, type CreateStorageParams } from './storageCache';
 import { cacheCipher, DEFAULT_CACHE_TIME, DEFAULT_PREFIX_KEY, enableStorageEncryption } from '@/settings/encryptionSetting';
 
 const options: Partial<CreateStorageParams> = {
