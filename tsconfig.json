@@ -1,12 +1,12 @@
 {
-  "extends": "@vue/tsconfig/tsconfig.json",
+//   "extends": "@vue/tsconfig/tsconfig.json",
   "compilerOptions": {
     "sourceMap": true,
     "baseUrl": ".",
     "target": "ESNext", // 编译出目标语言版本
     "module": "ESNext", // 生成代码的模板标准
     "moduleResolution": "node", // 指定TypeScript如何从给定的模块说明符查找文件
-    "verbatimModuleSyntax": true,
+    // "verbatimModuleSyntax": true,
     "paths": {
       "@/*": ["./src/*"]
     },
